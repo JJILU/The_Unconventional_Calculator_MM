@@ -1,0 +1,410 @@
+ERROR DOCUMENTATION FORMAT
+-------------------------
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+[1] ERROR NAME
+--------------
+- Unterminated string literal.
+[2] ERROR CAUSE
+---------------
+- String was opened with double quotes and terminated with single quotes this is not allowed.
+- let calculationDescription = "(defaultResult  + 10 ) * 3 / 2 - 1';
+[3] ERROR SOLUTION
+-------------------
+- open with double quotes and terminated with double quotes this allowed.
+- - let calculationDescription = '(defaultResult  + 10 ) * 3 / 2 - 1';
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
+
+
+[1] ERROR NAME
+--------------
+[2] ERROR CAUSE
+---------------
+[3] ERROR SOLUTION
+-------------------
